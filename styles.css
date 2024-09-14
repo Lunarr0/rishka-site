@@ -1,0 +1,38 @@
+body{
+    background-image: url("images/barbs2.png") ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.container{
+    width: 50%;
+    margin: 40px auto;
+    padding: 40px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: pink;
+    text-align: center;
+}
+
+h1{
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: black;
+}
+
+p{
+    font-size: 3rem}
+   
+.btn{
+    background-color:#E75480;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 10px;
+}
