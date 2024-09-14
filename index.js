@@ -10,6 +10,7 @@ var quoteList = [
     "Megbabonáz a szemed.",
     "Szia, cica! Van gazdád?",
     "Nagyon szeretlek",
+     "Nagyon very erõs",
     "Meg tudod csinálni!",
     "Gyerünk bazdmeg.",
     "Mit veszíthetsz?",
