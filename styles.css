@@ -16,6 +16,8 @@ body{
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     background-color: pink;
     text-align: center;
+    overflow: hidden; 
+    word-wrap: break-word;
 }
 
 h1{
@@ -25,7 +27,13 @@ h1{
 }
 
 p{
-    font-size: 3rem}
+   font-size: 3rem;
+    color: black; 
+    word-wrap: break-word; 
+    margin: 20px 0; 
+    overflow-wrap: break-word; 
+    white-space: normal; 
+}
    
 .btn{
     background-color:#E75480;
